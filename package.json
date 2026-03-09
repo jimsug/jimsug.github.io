@@ -14,6 +14,7 @@
     "@astrojs/sitemap": "^3.4.2",
     "astro": "^5.12.8",
     "astro-robots": "^2.3.1",
+    "satori": "^0.25.0",
     "sharp": "^0.34.2"
   }
 }
